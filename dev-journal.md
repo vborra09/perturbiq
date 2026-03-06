@@ -1,4 +1,4 @@
-## Session 1 — [ADD TODAY'S DATE]
+## Session 1 — [6th march]
 
 ### What We Built
 - GitHub repository created and pushed live (github.com/vborra09/perturbiq)
